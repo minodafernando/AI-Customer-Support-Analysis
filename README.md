@@ -1,7 +1,7 @@
 # README
 This project simulates a real-world AI Operations task: evaluating and refining customer-facing chatbot responses to improve customer experience.
 
-Using a manually scored dataset (with 15 common support queries) AI performance was assessed on 3 key dimensions: helpfullness, accuracy, and tone. Trends were analyzed across categories like billing, account issues, tech support, etc.
+Using a manually scored dataset (with 15 common support queries) AI performance was assessed on 3 key dimensions: helpfulness, accuracy, and tone. Trends were analyzed across categories like billing, account issues, tech support, etc.
 
 # Key Insights and Recommendations
 
