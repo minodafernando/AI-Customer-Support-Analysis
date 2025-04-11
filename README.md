@@ -7,6 +7,7 @@ Using a manually scored dataset (with 15 common support queries) AI performance 
 
 ### Key Insights
 
+
 #### 
 ![Bar](overall_avg.png)
 - Helpfulness scores were consistently high across all categories. It shows that the chatbot provided useful information for the user in almost all cases.
@@ -15,7 +16,7 @@ Using a manually scored dataset (with 15 common support queries) AI performance 
 
 - Tone scores were slightly lower, especially in urgent cases like when the user has to reset their password or is locked out of their account. This suggests that this AI lacks human-like/empathetic phrasing when it comes to emotionally charged queries.
 
-#### Correlation Between AI Performance Metrics
+
 ![Correlation Heatmap](correlation_metrics.png)
 
 - There is a stong correlation between accuracy and helpfulness scores which is predictable.
