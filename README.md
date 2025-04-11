@@ -9,7 +9,7 @@ Using a manually scored dataset (with 15 common support queries) AI performance 
 
 
 #### 
-![Bar](overall_avg_1.png)
+![Bar](overall_avg_2.png)
 - Helpfulness scores were consistently high across all categories. It shows that the chatbot provided useful information for the user in almost all cases.
 
 - Accuracy scores were also consistently high, which shows that the chatbot gave factually correct responses in most cases.
